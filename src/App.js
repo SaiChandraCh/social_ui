@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div className="App">
         <NavBar />
-        <UserList />
+        {/* <UserList /> */}
       </div>
     );
   }
